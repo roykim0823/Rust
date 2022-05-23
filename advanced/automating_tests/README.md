@@ -2,9 +2,12 @@
 
 1. Test Functions
 
-2. assert! macro
+2. should_panic
 
-3. Custom failure messages
+3. Controlling test execution
 
-4. 
-8. Exercise: Write automated tests
+4. Unit tests
+
+5. Integration tests
+
+6. Exercise: Write automated tests, shape
